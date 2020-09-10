@@ -1,0 +1,28 @@
+.green1 {
+    background-color: #85c441;
+}
+
+.green2 {
+    background-color: #59941a;
+}
+
+.green3 {
+    background-color: #9eda5e;
+}
+
+.green4 {
+    background-color: #6fac2d;
+}
+
+section {
+    height: 1000px;
+    font-size: 200px;
+    text-align: center;
+    line-height: 1000px;
+    color: azure;
+    text-shadow: #274309 0.05em 0.05em 0.08em
+}
+
+body {
+    margin: 0 0 0 0;
+}
